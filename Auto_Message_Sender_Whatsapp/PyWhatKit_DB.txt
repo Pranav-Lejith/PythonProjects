@@ -1,0 +1,35 @@
+Date: 20/3/2024
+Time: 21:39
+Phone Number: +919940670118
+Message: Automatic Message
+--------------------
+Date: 20/3/2024
+Time: 21:46
+Phone Number: +919940670118
+Message: Hello! This is an Automatic Message sent from python !
+--------------------
+Date: 20/3/2024
+Time: 22:1
+Phone Number: +919952936546
+Message: Hello! This is an automatic message..
+--------------------
+Date: 20/3/2024
+Time: 23:54
+Phone Number: +918110966557
+Message: Hello Sai. Are you awake?
+--------------------
+Date: 21/3/2024
+Time: 20:7
+Phone Number: +91 94456 03935
+Message: Hello Aaru. This is an automatic message.
+--------------------
+Date: 21/3/2024
+Time: 20:17
+Phone Number: +919445603935
+Message: AUTO MESSAGE
+--------------------
+Date: 21/3/2024
+Time: 20:29
+Phone Number: +91 94456 03935
+Message: Hello Aaru. I am typing this message on 8:28
+--------------------

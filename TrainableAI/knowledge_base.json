@@ -1,0 +1,33 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello. What can I help you with?"
+    },
+    {
+      "question": "who are you",
+      "answer": "I am Delta. I was created on 17th March 2024."
+    },
+    {
+      "question": "I want to know what a pencil is",
+      "answer": "A pencil is an object."
+    },
+    {
+      "question": "What is python programming language?",
+      "answer": "Python is a high-level, interpreted, and general-purpose dynamic programming language that focuses on code readability1. It was founded in 1991 by developer Guido Van Rossum2. Python\u2019s design philosophy emphasizes code readability with the use of significant indentation1. It is dynamically typed and garbage-collected1."
+    },
+    {
+      "question": "Who is gayatri?",
+      "answer": "She is an 8 year old girl."
+    },
+    {
+      "question": "which class is gayatri studying?",
+      "answer": "2 standard"
+    },
+    {
+      "question": "Oh",
+      "answer": "Okay"
+    }
+  
+  ]
+}
